@@ -9,6 +9,7 @@ npm run dev
 # or
 yarn dev
 ```
+
 Netify [https://tiktok-clone-new.netlify.app/](https://tiktok-clone-new.netlify.app/) link demo
 
 
