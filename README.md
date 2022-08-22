@@ -10,7 +10,7 @@ npm run dev
 yarn dev
 ```
 
-Netify [https://tiktok-clone-new.netlify.app/](https://tiktok-clone-new.netlify.app/) link demo
+Vercel [https://tik-tok-blush.vercel.app/](https://tik-tok-blush.vercel.app/) link demo
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
