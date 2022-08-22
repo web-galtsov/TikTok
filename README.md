@@ -9,6 +9,8 @@ npm run dev
 # or
 yarn dev
 ```
+Netify [https://tiktok-clone-new.netlify.app/](https://tiktok-clone-new.netlify.app/) link demo
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
